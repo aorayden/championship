@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../application"
+		},
+		{
+			"path": "../packages/ui_kit"
+		},
+		{
+			"path": "../packages/api"
+		},
+		{
+			"path": "../preview"
+		}
+	]
+}
