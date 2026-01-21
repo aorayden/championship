@@ -45,6 +45,6 @@ flutter:
           weight: 600
         - asset: assets/fonts/SF-Pro-Text-Bold.otf
           weight: 700
-    - family: Icons
+    - family: AppIcons
       fonts:
         - asset: assets/fonts/Icons.ttf
